@@ -33,7 +33,7 @@ const CONFIG = {
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Want to accept me as a innocent child? 🌹", // The big question!
+            text: "Can I be your baby? I promise to reduce my teasing by 2%🌹", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
         }
@@ -50,7 +50,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "Now come get your gift, a big warm hug and a huge kiss!",
+        message: "I’ve been saving a big, warm hug just for you… can’t wait to give it!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
